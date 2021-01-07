@@ -5,6 +5,14 @@
 
 * To access the platform and learn about new challenges click here. [CheckiO](https://checkio.org)
 
-### Execution in terminal Linux
-    python name_file.py
+## :running: Execution by the ubuntu system
 
+> Clone application repository
+
+    git clone https://github.com/victordsantoss/elementary-island-by-checkio.git
+> Access the repository root folder
+
+    cd ../../elementary-island-by-checkio
+> Run application
+
+    python name_file.py 
